@@ -6,6 +6,7 @@
 
 div.header {
     border: 1px solid;
+    background: url('../maket/img/background\ 1.png');
     background-image: url('../maket/img/img\ 1.png');
     
     background-repeat: no-repeat;
@@ -30,6 +31,7 @@ ul.hr li{
 }
 span
 button.btn {
+    color: white;
     padding: 5px 0px;
     height: 32px;
     width: 130px;
@@ -37,6 +39,7 @@ button.btn {
     margin: 8px 8px;
     background-color: rgba(255, 255,255, 0,26);
     border: none;
+    opacity: 0,3;
 }
 h1.h1{
     font-size: 70px;
@@ -72,6 +75,7 @@ p.sounds{
 }
 h4.sounds{
     font-size: 52px;
+    font-weight: bold;
 }
 p.sounds1{
     font-size: 18px;
@@ -95,45 +99,97 @@ img.player{
 div.plugins{
     width: 1280px;
     margin: 0px auto;
+    margin-top: 238px;
     border: 1px solid chocolate;
-    background-image: url('../maket/img/Rectangle\ 11.png');
+    background: url('../maket/img/Rectangle\ 11.png');
+    margin-top: -100px;
 }
-img.plugins{
-    margin-top: 0px;
-    float: left
-}
-p.plugins{
+p.PLUGINS{
     font-size: 16px;
-    margin-top: 130px;
-    margin-left: 231px;
+    margin-left: 880px;
+    margin-top: 167px;
 }
-span.plugins{
+p.Build{
+    font-weight: bold;
+    font-size: 48px;
+    margin-left: 880px;
+}
+p.digital{
+    font-size: 48px;
+    font-weight: bold;
     color: blue;
-    font-size: 48px;
+    margin-left: 880px;
 }
-p.plugins1{
-    font-size: 48px;
-}
-span.plugins1{
+p.Try{
     font-size: 18px;
+    margin-left: 880px;
     margin-top: 18px;
-    margin-left: 231px;
 }
-button.plugins{
-    margin-top: 50px;
-    margin-bottom: 165px;
-    margin-left: 231px;
-    border: none;
+p.pay{
+    font-size: 18px;
+    margin-left: 880px;
+}
+button.GEAR{
+    font-size: 12px;
     border-radius: 105px;
+    border: none;
     background-color: blue;
+    color: white;
     width: 133px;
     height: 37px;
-    color: white;
+    margin-top: 34px;
+    margin-left: 200px;
+    margin-bottom: 165px;
 }
-div.plugins1{
+div.tekst{
     vertical-align: middle;
-    padding-left: 231px;
+    margin-top: 300px;
 }
-br.plugins1{
+div.STUDIO{
+    width: 1280px;
+    margin: 0px auto;
+    margin-top: 100px;
+    border: 1px solid yellow;
+}
+p.STUDIO{
+    font-size: 16px;
+    margin-top: 105.5px;
+}
+p.stay{
+    font-size: 48px;
+    font-weight: bold;
+    margin-top: 3px;
+}
+span.sync{
+    font-size: 48px;
+    color: blue;
+    font-weight: bold;
+}
+p.industry{
+    font-size: 18px;
+    margin-top: 18px;
+}
+p.it{
+    font-size: 18px;
+    margin-right: 211px;
+}
+button.trysdutio{
+    font-size: 12px;
+    border: none;
+    color: white;
+    width: 146px;
+    height: 37px;
+    border-radius: 105px;
+    background-color: blue;
+    margin-top: 34px;
+}
+div.tekst1{
+    display: block;
+    position: absolute;
+}
+img.img4{
+    float:right;
+    display: block;
     
+
 }

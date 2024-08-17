@@ -1,0 +1,41 @@
+div.competitions{
+    background-color: rgb(94, 168, 238);
+    
+    color: blue;
+    font-size: 20px;
+    text-align: center;
+    padding: 20px;
+}
+div.fon{
+    background-color:rgb(240, 208, 30);
+}
+div.sport{
+    width: 300px;
+    height: px;
+    float: left;
+    display: block;
+    background-color: rgb(238, 200, 96);
+}
+div.fon2{
+    background: url('../homework/img/ball.png') repeat-y top right;
+    background-color:rgb(150, 68, 68);
+    margin: 0px;
+}
+
+div.footer{
+    background-color: rgb(94, 168, 238);
+    color: blue;
+    font-size: 20px;
+    text-align: center;
+    padding: 20px;
+}
+p.foot{
+    margin: 0px;
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+}
+img.img{
+    padding: 10px;
+    float: left;
+}
