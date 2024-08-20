@@ -1,0 +1,48 @@
+.conteiner{
+    width: 1440px;
+    background-color: rgba(4, 6, 6, 0.906);
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    width: 1440px;
+    margin: 0 auto;
+}
+.Castaway{
+    margin: 15px auto 17px 50px;
+    color: white;
+    font-size: 28px;
+    font-weight: bold;
+}
+.head li{
+    display: inline;
+    color: white;
+    font-size: 17px;
+    margin-right: 40px;
+    margin-top: 46px;
+}
+.head{
+    margin-top: 20px;
+}
+.img1{
+    margin: 42px 60px 0 70px;
+    float: left;
+}
+.rightText{
+    font-size: 70px;
+    color: white;
+    padding-top: 163px;
+    margin-top: 200px;
+}
+.level {
+    color: white;
+    font-weight: bold;
+}
+.listen{
+    padding-top: 130px;
+    font-size: 15px;
+}
+p.img img{
+    padding-top: 16px;
+    padding-right: 17px;
+}
