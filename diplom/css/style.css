@@ -1,6 +1,9 @@
+
 .conteiner{
     width: 1440px;
     background-color: rgba(4, 6, 6, 0.906);
+    margin-left: auto;
+    margin-right: auto;
 }
 .header{
     display: flex;
