@@ -49,3 +49,114 @@ p.img img{
     padding-top: 16px;
     padding-right: 17px;
 }
+.latest{
+    font-size: 64px;
+    color: white;
+    margin-top: 93px;
+    margin-left: 70px;
+}
+.view{
+    color: white;
+    font-size: 17px;
+    margin-left: 732px;
+    width: 178px;
+    height: 51px;
+    background-color: rgb(28, 196, 196);
+    border-radius: 8px;
+}
+div.episod3, div.episod2, div.episod1{
+    width: 1300px;
+    height: 545px;
+    border: solid 1px black;
+    background-color: black;
+    margin-left: 70px;
+    margin-top: 64px;
+    border-radius: 25px;
+}
+.div3img, .div2img, .div1img{
+    margin: 40px 40px 40px 40px;
+}
+div.episod3, div.episod2, div.episod1{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 60px;
+}
+p.gear, p.tips{
+    text-align: center;
+    width: 136px;
+    height: 27px;
+    font-size: 18px;
+    background-color: rgb(63, 62, 62);
+    border-radius: 10px;
+    margin-top: 48px;
+    padding-top: 9px;
+    color: white;
+}
+p.episode3, p.episode2, p.episode1{
+    font-size: 17px;
+    color: rgba(17, 141, 168, 1);
+    margin-top: 48px;
+    margin-bottom: 50px;
+}
+p.should, p.mic, p.The{
+    font-size: 64px;
+    margin-top: 17px;
+    margin-right: 290px;
+    color: white;
+}
+p.The{
+    margin-right: 261px;
+}
+p.stop, p.is, p.with{
+    color: rgba(255, 255, 255, 0.7);
+    font-size: 22px;
+    margin-top: 28px;
+}
+button.details, button.details2, button.details1{
+    color: white;
+    font-size: 17px;
+    margin-top: 35px;
+    width: 178px;
+    height: 51px;
+    background-color: rgb(28, 196, 196);
+    border-radius: 8px;
+}
+button.details2{
+    margin-top: 57px;
+}
+button.details1{
+    margin-top: 57px;
+}
+div.jacob{
+    display: flex;
+}
+button.round{
+    border-radius:50%;
+    width: 112px;
+    height: 112px;
+    background-color: rgb(28, 196, 196);
+    margin-top: 408px;
+    margin-left: 70px;
+    margin-bottom: 20px;
+}
+p.meet{
+    font-size: 18px;
+    color: rgba(17, 141, 168, 1);
+    margin-left: 70px;
+}
+p.name{
+    font-size: 65px;
+    color: white;
+    margin-left: 70px;
+}
+p.jacob{
+    font-size: 22px;
+    color: rgba(255, 255, 255, 0.7);
+    margin-top: 33px;
+    margin-left: 70px;
+}
+img.image4{
+    background-position: right;
+    margin-top: 260px;
+    margin-left: 178px;
+}
