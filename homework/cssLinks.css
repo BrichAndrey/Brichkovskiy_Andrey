@@ -47,12 +47,3 @@
 .third a:nth-child(5)::after {
     content: none;
 }
-.ul{
-    flex-direction: column;
-}
-.fourth{
-    color: rgb(255, 0, 0);
-    height: 40px;
-    width: 3px;
-    background-color: red;
-  }
