@@ -11,7 +11,7 @@
     width: 1440px;
     margin: 0 auto;
 }
-.Castaway{
+h1.Castaway{
     margin: 15px auto 17px 50px;
     color: white;
     font-size: 28px;
@@ -145,7 +145,7 @@ p.meet{
     color: rgba(17, 141, 168, 1);
     margin-left: 70px;
 }
-p.name{
+h2.name{
     font-size: 65px;
     color: white;
     margin-left: 70px;
@@ -263,9 +263,12 @@ img.footimg{
 }
 div.middle, div.middle2, div.footimg2{
     margin-top: 200px;
+    margin-right: 140px;
+    margin-left: 30px;
 }
-p.middle, p.middle2{
+p.p1, p.p2, p.p3, p.p4, p.p5, p.p6{
     color: white;
+    font-weight: bold;
     font-size: 17px;
-    padding-bottom: 10px;
+    margin-bottom: 20px;
 }
