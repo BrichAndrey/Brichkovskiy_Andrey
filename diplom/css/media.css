@@ -1,0 +1,45 @@
+@media (max-width: 992px){
+    ul.head{
+        margin-right: 150px;
+    }
+    button.view{
+        margin-left: 625px;
+    }
+    div.episod3, div.episod2, div.episod1{
+        width:1200px;
+        height: 600px;
+    }
+    p.mic{
+        margin-right: 142px;
+    }
+    button.details2{
+        margin-top: 91px;
+    }
+    p.The{
+        margin-right: 100px;
+    }
+    button.details1{
+        margin-top: 113px;
+    }
+    img.image4{
+        margin-left: 80px;
+    }
+    div.subscribe{
+        width: 1247px;
+    }
+    form{
+        width: 845px;
+    }
+    input, input.email{
+        margin-left: 275px;
+    }
+    button.sumbit{
+        margin-left: -35px;
+    }
+    div.review1,div.review2,div.review3,div.review4,div.review5,div.review6{
+        width: 405px;
+    }
+    div.footimg2{
+        margin-right: 130px;
+    }
+}
