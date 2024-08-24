@@ -62,15 +62,18 @@
     p.The{
         margin-right: 6px;
     }
-    button.details1{
-        margin-top: 97px;
-    }
     p.episode3{
         margin-top: 35px;
         margin-bottom: 35px;
     }
+    button.details1{
+        margin-top: 36px;
+    }
+    button.details2{
+        margin-top: 37px;
+    }
     button.details{
-        margin-top: 70px;
+        margin-top: 19px;
     }
     img.image4{
         width: 550px;
