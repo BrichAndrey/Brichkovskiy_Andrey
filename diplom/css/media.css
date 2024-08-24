@@ -1,4 +1,4 @@
-@media (max-width: 992px){
+@media (max-width: 1440px){
     ul.head{
         margin-right: 150px;
     }
@@ -43,12 +43,15 @@
         margin-right: 130px;
     }
 }
-@media (max-width: 320px){
+@media (max-width: 1280px){
     ul.head{
-        margin-right: 230px;
+        margin-right: 300px;
     }
     button.view{
-        margin-left: 520px;
+        margin-left: 350px;
+    }
+    p.img img{
+        padding-right: 3px;
     }
     div.episod3, div.episod2, div.episod1{
         width: 1095px;
@@ -79,7 +82,7 @@
         width: 550px;
     }
     div.subscribe{
-        width: 1105;
+        width: 1100px;
     }
     input, input.email{
         width: 390px;
@@ -103,5 +106,44 @@
     }
     div.middle2{
         margin-right: 80px;
+    }
+}
+@media (max-width: 1130px){
+    ul.head{
+        margin-right: 822px;
+    }
+    img.img1{
+        width: 510px;
+    }
+    button.view{
+        margin-left: 175px;
+    }
+    div.episod3, div.episod2, div.episod1{
+        width: 955px;
+        height: 670px;
+    }
+    button.details1{
+        margin-top: 75px;
+    }
+    img.image4{
+        width: 430px;
+        margin-left: 55px;
+    }
+    div.subscribe{
+        display: block;
+        width: 955px;
+        height: 700px;
+    }
+    p.email{
+        text-align: center;
+    }
+    p.sub{
+        margin-left: 354px;
+    }
+    form{
+        margin-left: 50px;
+    }
+    div.text21{
+        text-align: center;
     }
 }
