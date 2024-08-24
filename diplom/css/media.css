@@ -148,5 +148,11 @@
     }
 }
 @media (max-width: 920px){
+    div.rightText{
+        font-size: 45px;
+        color: white;
+        padding-top: 0px;
+        margin-top: 40px;
+    }
     
-}
+}   
