@@ -148,11 +148,126 @@
     }
 }
 @media (max-width: 920px){
+    h1.Castaway{
+        margin-left: 30px;
+    }
+    img.img1{
+        margin-left: 30px;
+    }
+    p.latest{
+        margin-left: 30px;
+    }
+    button.round{
+        margin-left: 30px;
+    }
+    p.meet{
+        margin-left: 30px;
+    }
+    h2.name{
+        margin-left: 30px;
+    }
+    p.jacob{
+        margin-left: 30px;
+    }
+    p.footCastaway{
+        margin-left: 30px;
+    }
     div.rightText{
-        font-size: 45px;
+        font-size: 35px;
         color: white;
         padding-top: 0px;
         margin-top: 40px;
     }
-    
+    div.episod3, div.episod2, div.episod1{
+        margin-left: 30px;
+        height: 550px;
+        width: 813px;
+        display: block;
+    }
+    img.div3img, img.div2img, img.div1img{
+        margin-top: 20px;
+        float: right;
+        height: 482px;
+        margin-right: 40px;
+    }
+    p.episode3, p.episode2, p.episode1{
+        margin-left: 40px;
+        margin-top: 25px;
+        margin-bottom: 25px;
+    }
+    p.should, p.mic, p.The{
+        margin-left: 40px;
+        font-size: 44px;
+    }
+    p.gear, p.tips{
+        margin-top: 20px;
+        margin-left: 40px;
+    }
+    p.is, p.stop{
+        height: 150px;
+        width: 400px;
+        margin-left: 40px;
+    }
+    button.details{
+        margin-left: 40px;
+    }
+    button.details2{
+        margin-left: 40px;
+        margin-top: 20px;
+    }
+    p.stop{
+        height: 110px;
+    }
+    p.with{
+        margin-left: 40px;
+    }
+    button.details1{
+        margin-left: 40px;
+        margin-top: 65px;
+    }
+    img.image4{
+        width: 532px;
+    }
+    div.subscribe{
+        width: 620px;
+        margin-left: 150px;
+    }
+    p.sub{
+        margin-left: 140px;
+    }
+    p.email{
+        margin-left: 0px;
+    }
+    form{
+        margin-left: 0px;
+    }
+    input, input.email{
+        margin-left: 140px;
+    }
+    div.flex{
+        width: 800px;
+        margin-left: 142px;
+    }
+    div.review1, div.review2, div.review3, div.review4, div.review5, div.review6{
+        width: 235px;
+    }
+    div.star{
+        margin-left: 15px;
+    }
+    p.review1, p.review2, p.review3, p.review4, p.review5, p.review6{
+        margin-left: 15px;
+        margin-right: 5px;
+    }
+    p.nameReview1, p.nameReview2, p.nameReview3, p.nameReview4, p.nameReview5, p.nameReview6{
+        margin-left: 15px;
+    }
+    div.footer{
+        width: 920px;
+    }
+    div.middle, div.middle2{
+        margin-right: 10px;
+    }
+    div.footimg2{
+        width: 200px;
+    }
 }   
