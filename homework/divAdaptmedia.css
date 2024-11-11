@@ -1,43 +1,43 @@
-.header {
+.header{
     background-color: rgb(131, 180, 215);
     color: blue;
     text-align: center;
     padding: 20px;
-  }
+}
   
-  .conteiner {
+.conteiner{
     background-color: rgb(172, 172, 29);
-  }
+}
   
-  .sport {
+.sport{
     float: left;
     width: 224px;
     padding: 10px;
-  }
+}
   
-  .content {
+.content{
     background: url('../homework/img/ball.png') right repeat-y, linear-gradient(#fff, #fff);
     margin-left: 220px;
     padding: 30px;
-  }
+}
   
-  h1 {
+h1{
     text-align: center;
     margin-top: 0px;
-  }
+}
   
-  .foot{
+.foot{
     float: left;
     width: 400px;
     padding-right: 12px;
   }
   
-  .footText {
+.footText{
     margin: 0px;
-  }
-  div.footer{
+}
+div.footer{
     background-color: rgb(131, 180, 215);
     color: blue;
     text-align: center;
     padding: 20px;
-  }
+}
